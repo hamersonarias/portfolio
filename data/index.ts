@@ -184,35 +184,35 @@ export const mySkills = [
         title: "Gen AI",
         desc: "",
         className: "md:col-span-6",
-        thumbnail: "/exp1.svg",
+        thumbnail: "/logo/GenAI.png",
     },
     {
         id: 2,
         title: "Chatbot",
         desc: "",
         className: "md:col-span-6", // change to md:col-span-2
-        thumbnail: "/exp2.svg",
+        thumbnail: "/logo/chatbot.png",
     },
     {
         id: 3,
         title: "GPT-4",
         desc: "",
         className: "md:col-span-6",
-        thumbnail: "/gpt.png",
+        thumbnail: "/logo/gpt.png",
     },
     {
         id: 4,
-        title: "RAG",
+        title: "ChatGPT",
         desc: "",
         className: "md:col-span-6", // change to md:col-span-2
-        thumbnail: "/exp4.svg",
+        thumbnail: "/logo/chatgpt.png",
     },
     {
         id: 5,
         title: "LLM",
         desc: "",
         className: "md:col-span-6",
-        thumbnail: "/cloud.svg",
+        thumbnail: "/logo/cloud.svg",
     },
     {
         id: 6,
@@ -220,6 +220,132 @@ export const mySkills = [
         desc: "",
         className: "md:col-span-6", // change to md:col-span-2
         thumbnail: "/c.svg",
+    },
+    {
+        id: 7,
+        title: "Hugging Face",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/hface.svg",
+    },
+    {
+        id: 8,
+        title: "Cloud",
+        desc: "",
+        className: "md:col-span-6", // change to md:col-span-2
+        thumbnail: "/logo/cloudflare.png",
+    },
+    {
+        id: 9,
+        title: "RAG",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/RAG.png",
+    },
+    {
+        id: 10,
+        title: "AWS",
+        desc: "",
+        className: "md:col-span-6", // change to md:col-span-2
+        thumbnail: "/logo/logo_aws.png",
+    },
+    {
+        id: 11,
+        title: "Azure",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/logo_azure.png",
+    },
+    {
+        id: 12,
+        title: "React",
+        desc: "",
+        className: "md:col-span-6", // change to md:col-span-2
+        thumbnail: "/logo/react-js.png",
+    },
+    {
+        id: 13,
+        title: "Node",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/node-js.png",
+    },
+    {
+        id: 14,
+        title: "JavaScript",
+        desc: "",
+        className: "md:col-span-6", // change to md:col-span-2
+        thumbnail: "/logo/jsm-logo.png",
+    },
+    {
+        id: 15,
+        title: "TypeScript",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/ts.png",
+    },
+    {
+        id: 16,
+        title: "Next",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/next-js.png",
+    },
+    {
+        id: 17,
+        title: "MongoDB",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/icons8-mongodb-144.png",
+    },
+    {
+        id: 18,
+        title: "Python",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/python.png",
+    },
+    {
+        id: 19,
+        title: "Django",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/logo_dj.png",
+    },
+    {
+        id: 20,
+        title: "Ruby",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/ruby.png",
+    },
+    {
+        id: 21,
+        title: "Ruby on Rails",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/rails-1.svg",
+    },
+    {
+        id: 22,
+        title: "PHP",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/logo_php.png",
+    },
+    {
+        id: 23,
+        title: "Tailwind CSS",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/tailwind-css.png",
+    },
+    {
+        id: 24,
+        title: "Meteor",
+        desc: "",
+        className: "md:col-span-6",
+        thumbnail: "/logo/meteor.svg",
     }
 ];
 
